@@ -1,0 +1,58 @@
+about:
+  description: HexPatch: a binary patcher and editor written in Rust with terminal user interface (TUI).
+  license: AGPL-3.0
+  homepage: https://etto48.github.io/HexPatch/
+  head: ca04a37
+  archived: false
+  latestVersion: v1.13.1
+  collectedAt: 2026-09-02T05:08:18Z
+timeline:
+  created: 2024-03-03
+  lastCommit: 2026-08-30
+  lastRelease: 2026-08-30
+popularity:
+  star: 333
+  watcher: 4
+  fork: 12
+  release: 47
+  contributor: 12
+  pullRequest: 3
+  issue: 19
+language:
+  Rust: 435789
+  Lua: 6159
+  Dockerfile: 166
+totalLine: 442114
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 1
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 2
+  last90d:
+    since: 2026-06-04
+    release: 2
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 7
+  last180d:
+    since: 2026-03-06
+    release: 3
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 2
+    openIssue: 0
+    commit: 8
+  last360d:
+    since: 2025-09-07
+    release: 5
+    mergedPR: 5
+    openPR: 0
+    closedIssue: 3
+    openIssue: 0
+    commit: 16
