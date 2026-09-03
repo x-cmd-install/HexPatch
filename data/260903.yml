@@ -1,11 +1,13 @@
 about:
-  description: HexPatch: a binary patcher and editor written in Rust with terminal user interface (TUI).
+  description:
+  |
+    HexPatch: a binary patcher and editor written in Rust with terminal user interface (TUI).
   license: AGPL-3.0
   homepage: https://etto48.github.io/HexPatch/
   head: ca04a37
   archived: false
   latestVersion: v1.13.1
-  collectedAt: 2026-09-03T05:11:04Z
+  collectedAt: 2026-09-03T22:39:01Z
 timeline:
   created: 2024-03-03
   lastCommit: 2026-08-30
@@ -22,7 +24,7 @@ language:
   Rust: 435789
   Lua: 6159
   Dockerfile: 166
-totalLine: 442114
+totalBytes: 442114
 recent:
   last30d:
     since: 2026-08-04
