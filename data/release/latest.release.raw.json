@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 24642880,
       "digest": "sha256:f8fc30b030e006bcdb8fc0100f4cf326ed5aa50fa73bf652c0d93aff5f36ca73",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-30T13:44:36Z",
       "updated_at": "2026-08-30T13:44:38Z",
       "browser_download_url": "https://github.com/Etto48/HexPatch/releases/download/v1.13.1/hex-patch-macos-latest"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 31032376,
       "digest": "sha256:f8fed20ae096be23bf7325d1a414b9c9826abc985b441a61dacbe1ce1ef64d3b",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-30T13:44:05Z",
       "updated_at": "2026-08-30T13:44:06Z",
       "browser_download_url": "https://github.com/Etto48/HexPatch/releases/download/v1.13.1/hex-patch-ubuntu-latest"
