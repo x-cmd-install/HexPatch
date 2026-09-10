@@ -23,7 +23,14 @@ x install HexPatch
 - **Latest**: `v1.13.1` (2026-08-30)
 - **Last commit**: 2026-08-30
 - **Assets in release**: 3
-- **Published**: 2026-08-30T13:40:19Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [hex-patch-macos-latest](https://github.com/Etto48/HexPatch/releases/download/v1.13.1/hex-patch-macos-latest) | 23.5 MiB | `native/darwin/x64` |
+| [hex-patch-ubuntu-latest](https://github.com/Etto48/HexPatch/releases/download/v1.13.1/hex-patch-ubuntu-latest) | 29.6 MiB | `other` |
+| [hex-patch-windows-latest.exe](https://github.com/Etto48/HexPatch/releases/download/v1.13.1/hex-patch-windows-latest.exe) | 25.9 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -58,8 +65,8 @@ Total: **15,268** lines of code across **110** files in the top 5 languages.
 Install metadata for HexPatch lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `HexPatch` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/HexPatch.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/HexPatch.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:00:18Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:58:56Z._
