@@ -12,6 +12,18 @@ HexPatch: a binary patcher and editor written in Rust with terminal user interfa
 x install HexPatch
 ```
 
+## 代码洞察
+
+合计: **15,268** 行代码（覆盖前 5 种语言、共 **110** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 11,136 | 66 | 965 | 89 |
+| Yaml | 2,338 | 17 | 97 | 11 |
+| Json | 1,178 | 0 | 0 | 4 |
+| Svg | 195 | 2 | 2 | 2 |
+| Lua | 167 | 0 | 20 | 4 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/Etto48/HexPatch>
@@ -23,14 +35,6 @@ x install HexPatch
 - **最新版本**: `v1.13.1` (2026-08-30)
 - **最近提交**: 2026-08-30
 - **Release 含资产**: 3 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [hex-patch-macos-latest](https://github.com/Etto48/HexPatch/releases/download/v1.13.1/hex-patch-macos-latest) | 23.5 MiB | `native/darwin/x64` |
-| [hex-patch-ubuntu-latest](https://github.com/Etto48/HexPatch/releases/download/v1.13.1/hex-patch-ubuntu-latest) | 29.6 MiB | `other` |
-| [hex-patch-windows-latest.exe](https://github.com/Etto48/HexPatch/releases/download/v1.13.1/hex-patch-windows-latest.exe) | 25.9 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -44,21 +48,20 @@ x install HexPatch
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 1 | 0 | 1 | 0 | 2 |
-| 90d | 2026-06-12 | 2 | 2 | 0 | 1 | 0 | 7 |
-| 360d | 2025-09-15 | 5 | 5 | 0 | 3 | 0 | 16 |
+| 30d | 2026-08-12 | 1 | 1 | 0 | 1 | 0 | 2 |
+| last60d | 2026-07-13 | 2 | 2 | 0 | 1 | 0 | 2 |
+| 90d | 2026-06-13 | 2 | 2 | 0 | 1 | 0 | 7 |
+| last180d | 2026-03-15 | 3 | 2 | 0 | 1 | 0 | 8 |
+| 360d | 2025-09-16 | 5 | 5 | 0 | 3 | 0 | 16 |
+| last720d | 2024-09-21 | 19 | 25 | 0 | 15 | 0 | 119 |
 
-## 代码规模
+## Release 资产
 
-合计: **15,268** 行代码（覆盖前 5 种语言、共 **110** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 11,136 | 66 | 965 | 89 |
-| Yaml | 2,338 | 17 | 97 | 11 |
-| Json | 1,178 | 0 | 0 | 4 |
-| Svg | 195 | 2 | 2 | 2 |
-| Lua | 167 | 0 | 20 | 4 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [hex-patch-macos-latest](https://github.com/Etto48/HexPatch/releases/download/v1.13.1/hex-patch-macos-latest) | 23.5 MiB | `native/darwin/x64` |
+| [hex-patch-ubuntu-latest](https://github.com/Etto48/HexPatch/releases/download/v1.13.1/hex-patch-ubuntu-latest) | 29.6 MiB | `other` |
+| [hex-patch-windows-latest.exe](https://github.com/Etto48/HexPatch/releases/download/v1.13.1/hex-patch-windows-latest.exe) | 25.9 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -69,4 +72,4 @@ HexPatch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:58:57Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:23:25Z._
