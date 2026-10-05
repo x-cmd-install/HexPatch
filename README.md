@@ -38,7 +38,7 @@ Total: **15,268** lines of code across **110** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 335 · **Forks**: 12 · **Open issues**: 19 · **Contributors**: 12
+- **Stars**: 336 · **Forks**: 12 · **Open issues**: 19 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **15,268** lines of code across **110** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-05 | 1 | 1 | 0 | 1 | 0 | 2 |
-| 90d | 2026-07-06 | 2 | 2 | 0 | 1 | 0 | 7 |
-| last180d | 2026-04-07 | 3 | 2 | 0 | 1 | 0 | 8 |
-| 360d | 2025-10-09 | 4 | 3 | 0 | 2 | 0 | 11 |
-| last720d | 2024-10-14 | 19 | 25 | 0 | 15 | 0 | 119 |
+| 30d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-06 | 1 | 1 | 0 | 1 | 0 | 0 |
+| 90d | 2026-07-07 | 2 | 2 | 0 | 1 | 0 | 0 |
+| last180d | 2026-04-08 | 3 | 2 | 0 | 1 | 0 | 0 |
+| 360d | 2025-10-10 | 4 | 3 | 0 | 2 | 0 | 0 |
+| last720d | 2024-10-15 | 19 | 25 | 0 | 15 | 0 | 119 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for HexPatch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:08:19Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T05:52:04Z._
