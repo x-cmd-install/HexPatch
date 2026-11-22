@@ -32,8 +32,8 @@ Total: **15,268** lines of code across **110** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.13.1` (2026-08-30)
-- **Last commit**: 2026-08-30
+- **Latest**: `v1.13.2` (2026-11-21)
+- **Last commit**: 2026-11-21
 - **Assets in release**: 3
 
 ## Popularity
@@ -42,26 +42,26 @@ Total: **15,268** lines of code across **110** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 136 · **Open PRs**: 0 · **Closed issues**: 19 · **Open issues**: 0 · **Commits**: 627
+- **Releases**: 48 · **Merged PRs**: 136 · **Open PRs**: 0 · **Closed issues**: 19 · **Open issues**: 0 · **Commits**: 628
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-23 | 1 | 1 | 0 | 0 | 0 | 2 |
-| last180d | 2026-05-25 | 2 | 2 | 0 | 1 | 0 | 7 |
-| 360d | 2025-11-26 | 4 | 3 | 0 | 2 | 0 | 11 |
-| last720d | 2024-12-01 | 16 | 22 | 0 | 15 | 0 | 108 |
+| 30d | 2026-10-23 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-23 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-24 | 2 | 1 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-26 | 3 | 2 | 0 | 1 | 0 | 0 |
+| 360d | 2025-11-27 | 5 | 3 | 0 | 2 | 0 | 0 |
+| last720d | 2024-12-02 | 17 | 22 | 0 | 15 | 0 | 109 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [hex-patch-macos-latest](https://github.com/Etto48/HexPatch/releases/download/v1.13.1/hex-patch-macos-latest) | 23.5 MiB | `native/darwin/x64` |
-| [hex-patch-ubuntu-latest](https://github.com/Etto48/HexPatch/releases/download/v1.13.1/hex-patch-ubuntu-latest) | 29.6 MiB | `other` |
-| [hex-patch-windows-latest.exe](https://github.com/Etto48/HexPatch/releases/download/v1.13.1/hex-patch-windows-latest.exe) | 25.9 MiB | `native/win/x64` |
+| [hex-patch-macos-latest](https://github.com/Etto48/HexPatch/releases/download/v1.13.2/hex-patch-macos-latest) | 23.4 MiB | `native/darwin/x64` |
+| [hex-patch-ubuntu-latest](https://github.com/Etto48/HexPatch/releases/download/v1.13.2/hex-patch-ubuntu-latest) | 29.4 MiB | `other` |
+| [hex-patch-windows-latest.exe](https://github.com/Etto48/HexPatch/releases/download/v1.13.2/hex-patch-windows-latest.exe) | 25.4 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for HexPatch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:43:11Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:17:30Z._
